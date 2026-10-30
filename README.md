@@ -86,26 +86,6 @@ The study also discusses the potential advantages of coconut-shell-derived activ
 
 These findings are simulation-based and should be interpreted within the assumptions and material parameters of the models.
 
-## Repository Structure
-
-```text
-MATLAB/
-    flat_type/
-    cylindrical/
-
-COMSOL/
-    flat_type/
-    cylindrical/
-
-Results/
-    geometry/
-    mesh/
-    voltage_distribution/
-    energy_density/
-    electrochemical_analysis/
-
-Research_Paper/
-```
 
 ## Applications
 
